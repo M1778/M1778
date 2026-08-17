@@ -84,7 +84,7 @@
   <a href="https://t.me/M1778x" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/static/v1?message=telegram&logo=telegram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram"  />
   </a>
-  <a href="https://github.com/M1778M" target="_blank" rel="noreferrer">
+  <a href="https://github.com/M1778" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/static/v1?message=github&logo=github&label=&color=001122&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github" />
   </a>
 </div>
@@ -96,5 +96,5 @@
 [![M1778](https://github-readme-activity-graph.vercel.app/graph?username=M1778&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/M1778)
 
 
-### ... I like making stuff. Cool stuff.
+### ... I liked making stuff (Cool stuff).
 Old Username: M1778M

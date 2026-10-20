@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=M1778&fontSize=76&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=A%20normal%20developer&descSize=22&descAlignY=58" alt="M1778 - A normal developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=M1778&fontSize=76&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=NoneSpace&descSize=22&descAlignY=58" alt="M1778 - A normal developer" width="100%" />
 
 <a href="https://github.com/M1778">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&height=45&lines=I+like+making+cool+stuff;Backend%2C+frontend%2C+DevOps%2C+security%2C+AI;Python+%C2%B7+Rust+%C2%B7+C%2B%2B+%C2%B7+Luau+%C2%B7+Bash" alt="Typing animation" />
